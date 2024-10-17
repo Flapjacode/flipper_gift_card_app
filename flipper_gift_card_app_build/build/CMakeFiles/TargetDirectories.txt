@@ -1,0 +1,3 @@
+/mnt/c/Users/magic/desktop/flips/flipper_gift_card_app/build/CMakeFiles/GiftCardApp.dir
+/mnt/c/Users/magic/desktop/flips/flipper_gift_card_app/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/magic/desktop/flips/flipper_gift_card_app/build/CMakeFiles/rebuild_cache.dir

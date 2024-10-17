@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/GiftCardApp.dir/src/main.c.o CMakeFiles/GiftCardApp.dir/src/wifi.c.o CMakeFiles/GiftCardApp.dir/src/barcode.c.o CMakeFiles/GiftCardApp.dir/src/api.c.o -o GiftCardApp
